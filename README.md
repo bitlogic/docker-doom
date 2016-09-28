@@ -1,3 +1,1 @@
 # docker-doom
-
-<3
